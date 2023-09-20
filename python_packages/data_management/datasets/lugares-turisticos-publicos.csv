@@ -1,0 +1,115 @@
+LT01,Nombre,Tipo,TipoLugar,Pais,Provincia,Ciudad,Punto de Localización,Latitud,Longuitud
+LT02,Río Santa Bárbara,LugaresTuristicos,Rio,Ecuador,Azuay,Gualaceo,Se ubica  en el Cantón de Gulaceo,-29.047956,-78.778787
+LT03,Represa de Paute,LugaresTuristicos,Represa,Ecuador,Azuay,Cuenca,,-2.586111,-78.558333
+LT04,El Turi,LugaresTuristicos,Iglesia,Ecuador,Azuay,Cuenca,,-2.9223567,-79.0103607
+LT05,Cascada Irha,LugaresTuristicos,Casacada,Ecuador,Azuay,Cuenca,Se encuentra ubicado a 5 km del cantón Girón está ubicado a 45 kilómetros de Cuenca,,
+LT06,Parque Nacional Cajas,LugaresTuristicos,Parque,Ecuador,Azuay,Cuenca,,-2.8487368,-79.2537609
+LT07,Reserva faunística el Chimborazo,LugaresTuristicos,Reserva,Ecuador,Bolívar,Riobamba,,-1.51123,-78.8609122
+LT08,Complejo turístico las cochas,LugaresTuristicos,Atractivo Turistico,Ecuador,Bolívar,Guaranda,Via Guaranda - Guanujo - Las Cochas,,
+LT09,Santuario De La Virgen del Huayco,LugaresTuristicos,Iglesia,Ecuador,Bolívar,San Jose de Chimbo,,-1.6700716,-79.0607285
+LT10,Cuevas de Tiagua,LugaresTuristicos,Montaña,Ecuador,Bolívar,Guaranda,"Las Cuevas de Tiagua se encuentran a 40 minutos de la parroquia Salinas,Guaranda",,
+LT11,Volcan Carihuairazo,LugaresTuristicos,Volcan,Ecuador,Bolívar,Riobamba,,-1.4043069,-78.754549
+LT12,Complejo turístico Ingapirca,LugaresTuristicos,Complejo Arqueologico ,Ecuador,Cañar,Cañar,A 16km de la ciudad de Cañar,-2.548985,-78.8714679
+LT13,Lagunas de culebrillas,LugaresTuristicos,Laguna,Ecuador,Cañar,Cañar,,-2.4230556,-78.8597222
+LT14,Museo de Guantug,LugaresTuristicos,Museo,Ecuador,Cañar,Cañar,,,
+LT15,Catedral de Azogues,LugaresTuristicos,Iglesia,Ecuador,Cañar,Azogues,,-2.7381951,-78.8472003
+LT16,Cementerio de Tulcán,LugaresTuristicos,Cementerio,Ecuador,Carchi,Tulcán,,0.8200078,-77.7148041
+LT17,Reserva Ecológica El Ángel,LugaresTuristicos,Reserva,Ecuador,Carchi,Tulcán,,0.82152,-77.73217
+LT18,Gruta De La Paz,LugaresTuristicos,Santuario Nacional,Ecuador,Carchi,Montúfar,,0.5004223,-77.842803
+LT19,Lagunas Verdes,LugaresTuristicos,Laguna,Ecuador,Carchi,Tulcán,A 40 kilómetros de Tulcán,0.8150608,-77.9357521
+LT20,Reserva Awa,LugaresTuristicos,Reserva Biantropológica,Ecuador,Carchi,Tulcán,A 145 km de Tulcán.,1.0935308,-78.4524591
+LT21,Iglesia de Balbanera,LugaresTuristicos,Iglesia,Ecuador,Chimborazo,Colta,"Colta, A 8 Km de Riobamba.",-1.7234848,-78.7625863
+LT22,Laguna Del Atillo,LugaresTuristicos,Laguna,Ecuador,Chimborazo,Guamote,"Cantón Guamote, A 90 km de Riobamba",-2.196173,-78.5291706
+LT23,Laguna de Colta,LugaresTuristicos,Laguna,Ecuador,Chimborazo,Riobamba,A 20 km. de la ciudad de Riobamba y a 3 km. de la cabecera cantonal Cajabamba,-1.7375,-78.7558333
+LT24,La Nariz Del Diablo,LugaresTuristicos,Montaña,Ecuador,Chimborazo,Chimborazo,,-2.2437094,-78.8779638
+LT25,Laguna de Azogoche,LugaresTuristicos,Laguna,Ecuador,Chimborazo,Alausi,"En Alausí, a 90 km de Riobamba.",-2.2518863,-78.5916866
+LT26,Parque Nacional De Cotopaxi,LugaresTuristicos,Parque Nacional,Ecuador,Cotopaxi,Latacunga,,-0.7007416,-78.4297187
+LT27,Laguna De Quilatoa,LugaresTuristicos,Laguna,Ecuador,Cotopaxi,Latacunga,"A 66 kilómetros al sur de la ciudad de Latacunga,",-0.8583134,-78.9033627
+LT28,Parque Nacional Ilinizas,LugaresTuristicos,Reserva Ecologica,Ecuador,Cotopaxi,Latacunga.,,-0.7022878,-79.0645056
+LT29,Santuario De Cuicuno,LugaresTuristicos,Santuario Nacional,Ecuador,Cotopaxi,Latacunga.,,-0.8035306,-78.6684971
+LT30,Archipiélago de Jambelí,LugaresTuristicos,Archipielago,Ecuador,El Oro,Santa Rosa,,-3.36556,-80.1108
+LT31,Balneario La Chocha,LugaresTuristicos,Balneario,Ecuador,El Oro,Casacay,,-3.3228304,-79.7215175
+LT32,Isla Santa Clara,LugaresTuristicos,Isla,Ecuador,El Oro,Puerto Bolivar,A 43 kilómetros al oeste de Puerto Bolívar,-3.1713787,-80.4342251
+LT33,Cerro Dos Arcos,LugaresTuristicos,Cerro,Ecuador,El Oro,Zaruma,Parroquia Manú,-3.564167,-79.469444
+LT34,Cantón Chilla,LugaresTuristicos,Atractivo Turistico,Ecuador,El Oro,Chilla,,-3.4576431,-79.5772008
+LT35,Playa De Oro,LugaresTuristicos,Playa,Ecuador,Esmeraldas,Esmeraldas,,0.865753,-78.801299
+LT36,Reserva Ecológica Cayambe Coca,LugaresTuristicos,Reserva Ecologica,Ecuador,Esmeraldas,Esmeraldas,,-0.3253796,-78.1479586
+LT37,Reserva Ecológica Cotacachi Cayapas,LugaresTuristicos,Reserva Ecologica,Ecuador,Esmeraldas,Cotachachi,Parroquia Quiroga,0.583333,-78.683333
+LT38,Lago De Muisne,LugaresTuristicos,Lago,Ecuador,Esmeraldas,Muisne,,0.6067,-80.0183
+LT39,Playa Las Peñas,LugaresTuristicos,Playa,Ecuador,Esmeraldas,Eloy Alfaro,"Parroquia La Tola, cantón Eloy Alfaro",1.086367,-79.157314
+LT40,Isla Santa Cruz,LugaresTuristicos,Isla,Ecuador,Galápagos,Puerto Ayora,,-0.6393592,-90.3371889
+LT41,Isla Isabela,LugaresTuristicos,Isla,Ecuador,Galápagos,Puerto Villamil,,-0.8292374,-91.135302
+LT42,Isla Bartolomé,LugaresTuristicos,Isla,Ecuador,Galápagos,,,-0.2842964,-90.550602
+LT43,Isla Fernandina,LugaresTuristicos,Isla,Ecuador,Galápagos,,,-0.4123801,-91.4821482
+LT44,Isla San Cristóbal,LugaresTuristicos,Isla,Ecuador,Galápagos,Puerto Baquerizo Moreno,,-0.8674715,-89.436391
+LT45,El Faro,LugaresTuristicos,Atractivo Turistico,Ecuador,Guayas,Guayaquil,,-2.1810317,-79.8753664
+LT46,Parque Histórico De Guayaquil,LugaresTuristicos,Parque,Ecuador,Guayas,Guayaquil,,-2.1451609,-79.8700969
+LT47,Hacienda Jambelí,LugaresTuristicos,Reserva Ecologica,Ecuador,Guayas,Naranjal,"A 16 Km del Cantón Naranjal, en la vía a Machala, exactamente en Balao Chico.",,
+LT48,Malecón 2000,LugaresTuristicos,Parque,Ecuador,Guayas,Guayaquil,,-2.1937369,-79.8797778
+LT49,Museo Histórico De Abdón Calderón,LugaresTuristicos,Museo,Ecuador,Guayas,Guayaquil,,-2.2153454,-79.8872573
+LT50,Otavalo,LugaresTuristicos,Atractivo Turistico,Ecuador,Imbabura,Otavalo,,0.2343005,-78.2610672
+LT51,Lago De San Pablo,LugaresTuristicos,Laguna,Ecuador,Imbabura,Ibarra,,0.2059669,78.219132
+LT52,Yahuarcocha,LugaresTuristicos,Laguna,Ecuador,Imbabura,Ibarra,Parroquia La Dolorosa del Priorato,0.3719409,-78.1005579
+LT53,Ibarra,LugaresTuristicos,Atractivo Turistico,Ecuador,Imbabura,Ibarra,,0.3391763,-78.1222336
+LT54,Valle Del Chota,LugaresTuristicos,Atractivo Turistico,Ecuador,Imbabura,Ibarra,A 35 Km. de Ibarra,0.466667,-78.066667
+LT55,Basílica Del Cisne,LugaresTuristicos,Santurario Nacional,Ecuador,Loja,Loja,Parroquia El Cisne,-3.851045,-79.426496
+LT56,Parque Podocarpus,LugaresTuristicos,Parque Nacional,Ecuador,Loja,Loja,,-4.283333,-79
+LT57,Vilcabamba,LugaresTuristicos,Atractivo Turistico,Ecuador,Loja,Vilcambaba,,-4.2623285,-79.2253776
+LT58,Iglesia Catedral,LugaresTuristicos,Iglesia,Ecuador,Loja,Loja,,-3.9964969,-79.2010967
+LT59,Plaza De La Independencia,LugaresTuristicos,Parque,Ecuador,Loja,Loja,,-4.00156,-79.2013171
+LT60,Parque Recreacional Jipiro,LugaresTuristicos,Parque,Ecuador,Loja,Loja,,-3.9720197,-79.2035207
+LT61,Casa De Olmedo,LugaresTuristicos,Atractivo Turistico,Ecuador,Los Ríos,Babahoyo,,,
+LT62,Playas Del Salto,LugaresTuristicos,Playa,Ecuador,Los Ríos,Babahoyo,,,
+LT64,Zoo el Pantanal,LugaresTuristicos,Zoologico,Ecuador,Los Ríos,Babahoyo,,-2.0036723,79.9648543
+LT65,Puerto López,LugaresTuristicos,Playa,Ecuador,Manabí,Puerto Lopez,,-1.5539322,-80.8045568
+LT66,Parque Nacional Machalilla,LugaresTuristicos,Parque,Ecuador,Manabí,Puerto Machalilla,,-1.5202275,-80.715857
+LT67,Portoviejo,LugaresTuristicos,Atractivo Turistico,Ecuador,Manabí,Portoviejo,,-1.054723,-80.4524903
+LT68,Ayampe,LugaresTuristicos,Playa,Ecuador,Manabí,Puerto López,A 17 Km. al sur de Puerto López,-1.679507,-80.803711
+LT69,Playas Del Murciélago,LugaresTuristicos,Playa,Ecuador,Manabí,Manta,,-0.9399588,-80.7330658
+LT70,Cascada Lucy,LugaresTuristicos,Cascada,Ecuador,Morona Santiago,,,,
+LT71,Rio Morona,LugaresTuristicos,Rio,Ecuador,Morona Santiago,Morona,,-4.733333,-77.066667
+LT72,Valle Del Rio Upano,LugaresTuristicos,Rio,Ecuador,Morona Santiago,Macas,,-2.3916143,-78.2034128
+LT73,Cuevas Los Tayos,LugaresTuristicos,Cueva,Ecuador,Morona Santiago,Limón Indanza,,-1.933333,-77.792778
+LT74,Cuevas De Loras Y Golondrinas,LugaresTuristicos,Cueva,Ecuador,Morona Santiago,Tiwintza,A Unos 3 Km En El Cantón De Tiwintza,21.599722,-99.098889
+LT75,Tena,LugaresTuristicos,Atractivo Turistico,Ecuador,Napo,Tena,,-0.9962972,-77.8136035
+LT76,Parque Nacional Archidona,LugaresTuristicos,Parque Nacional,Ecuador,Napo,Archidona,,-0.9088177,-77.806994
+LT77,Cascada San Rafael,LugaresTuristicos,Cascada,Ecuador,Napo,Tena,30 km de la ciudad de Tena,-0.1019968,-77.5807714
+LT78,Puerto Misahuallí,LugaresTuristicos,Puerto,Ecuador,Napo,Tena,20 km de la ciudad de Tena,-1.0348151,-77.6670608
+LT79,Cavernas Del Jumandy,LugaresTuristicos,Caverna,Ecuador,Napo,Archidona,,-0.8753438,-77.7919361
+LT80,Parque Nacional Yasuní,LugaresTuristicos,Parque Nacional,Ecuador,Orellana,Yasuni,,-1.1006555,-75.8069082
+LT81,Rio Napo,LugaresTuristicos,Rio,Ecuador,Orellana,Puerto Francisco de Orellana,,-0.6701038,-75.6964405
+LT82,Cascada La Belleza,LugaresTuristicos,Cascada,Ecuador,Orellana,Francisco de Orellana,,,
+LT83,Museo Cicame,LugaresTuristicos,Museo,Ecuador,Orellana,Francisco de Orellana,A 50 kms. abajo de Coca o Francisco de Orellana,-0.4411355,-76.618645
+LT85,Parque Acuático Montero Puyo,LugaresTuristicos,Parque Acuatico,Ecuador,Pastaza,Puyo,,-1.487986,-78.0047258
+LT86,Cascada Hola Vida,LugaresTuristicos,Casacada,Ecuador,Pastaza,Puyo,"Vía a Macas, desvío a la derecha sector Nuevo Mundo.",,
+LT87,Zoocriadero De Fátima,LugaresTuristicos,Atractivo Turistico,Ecuador,Pastaza,Puyo,Se ubica en el Km 7 vía Puyo - Tena,,
+LT88,Dique De Mera,LugaresTuristicos,,Ecuador,Pastaza,Mera,,-1.4560321,-78.1052137
+LT89,Parque Real,LugaresTuristicos,Parque,Ecuador,Pastaza,Tarqui,,-1.4950378,-77.9860187
+LT90,Centro Histórico De Quito,LugaresTuristicos,Atractivo Turistico,Ecuador,Pichinca,Quito,,-0.2188216,-78.5135489
+LT91,Mital Del Mundo,LugaresTuristicos,Atractivo Turistico,Ecuador,Pichinca,Quito,,-0.0027576,-78.4548493
+LT92,Parque Nacional Ilinizas,LugaresTuristicos,Parque Nacional,Ecuador,Pichinca,Machachi,"Parroquia El Chaupi , Machachi.",-0.7022878,-79.0645056
+LT93,Cascada Salto Del Tigre,LugaresTuristicos,Cascada,Ecuador,Pichinca,Pedro Vicente Maldonado,,,
+LT94,Fuentes De Tesalia,LugaresTuristicos,Atractivo Turistico,Ecuador,Pichinca,Machachi,,,
+LT95,Museo Los Amantes De Sampa,LugaresTuristicos,Museo,Ecuador,Santa Elena,Santa Elena,Al sur este de la ciudad de Santa Elena,-2.2335211,-80.8674806
+LT96,Salinas,LugaresTuristicos,Playa,Ecuador,Santa Elena,Salinas,,-2.2233578,-80.9584665
+LT97,Montañita,LugaresTuristicos,Playa,Ecuador,Santa Elena,Salinas,Parroquia Manglaralto,-1.8268465,-80.7529731
+LT98,Puerto De Carnero,LugaresTuristicos,Playa,Ecuador,Santa Elena,Salinas,Parroquia José Luis Tamayo,-2.273684,-80.9612205
+LT99,Acuario De Valdivia,LugaresTuristicos,Acuario,Ecuador,Santa Elena,Salinas,Parroquia Manglaralto,-2.27368,",-80.9612205"
+LT100,Santo Domingo,LugaresTuristicos,Atractivo Turistico,Ecuador,Santo Domindo de los Stáchilas,Santo Domingo,,-0.2389045,-79.1774268
+LT101,Parque Zacay,LugaresTuristicos,Parque,Ecuador,Santo Domindo de los Stáchilas,Santo Domingo,,-0.2541717,-79.1688151
+LT102,Complejo Turistico Rio Cristal,LugaresTuristicos,Atractivo Turistico,Ecuador,Santo Domindo de los Stáchilas,Santo Domingo,A 35 kilómetros de Santo Domingo,-1.7787055,-79.2773867
+LT103,Bosque La Perla,LugaresTuristicos,Bosque,Ecuador,Santo Domindo de los Stáchilas,Santo Domingo,"A 40 km. de Santo Domingo de los Tsáchilas, en la vía La Concordia - Esmeraldas.",-0.014502,-79.3866092
+LT104,Reserva Faunística Cuyabeno,LugaresTuristicos,Reserva Faunistica,Ecuador,Sucumbíos,Cuyabeno,,-0.2713055,-75.7531906
+LT105,Laguna Delfincocha,LugaresTuristicos,Laguna,Ecuador,Sucumbíos,Cuyabeno,Dentro de la reserva Cuyabeno,,
+LT106,Rio Aguarico,LugaresTuristicos,Rio,Ecuador,Sucumbíos,Cuyabeno,Se encuentra ubicado en la parroquia Tarapoa,-0.3715772,-76.3511371
+LT107,Laguna Grande,LugaresTuristicos,Laguna,Ecuador,Sucumbíos,Cuyabeno,Se encuentra ubicado en la parroquia Tarapoa,-0.0554326,-79.2607628
+LT108,Selva Virgen,LugaresTuristicos,Selva,Ecuador,Sucumbíos,,,,
+LT109,Baños De Agua Santa,LugaresTuristicos,Balneario,Ecuador,Tungurahua,Baños,,-1.3928344,-78.4268758
+LT110,Parque La Familia En Ambato,LugaresTuristicos,Parque,Ecuador,Tungurahua,Ambato,,-1.2438848,-78.6633375
+LT111,Casa De Montalvo En Ambato,LugaresTuristicos,Atractivo Turistico,Ecuador,Tungurahua,Ambato,,-1.2437069,",-78.7311897"
+LT112,La Cordillera de los Llangantes,LugaresTuristicos,Atractivo Turistico,Ecuador,Tungurahua,Baños de Agua Santa,Se encuentra ubicado en la parroquia Río Negro,-1.1945173,-78.3613482
+LT113,El Cariguairazo,LugaresTuristicos,Volcan,Ecuador,Tungurahua,,A sólo 10 km del Chimborazo,-1.4043015,-78.7567377
+LT114,Rio Bomboscaro,LugaresTuristicos,Rio,Ecuador,Zamora Chimchipe,Zamora,,-4.0620941,-78.948623
+LT115,Cascada La Chismosa,LugaresTuristicos,Cascada,Ecuador,Zamora Chimchipe,Zamora,,,
+LT116,Cascada El Oso,LugaresTuristicos,Cascada,Ecuador,Zamora Chimchipe,Zamora,,,
+LT117,El Reloj Las Grande Del Mundo,LugaresTuristicos,Atractivo Turistico,Ecuador,Zamora Chimchipe,Zamora,,,
