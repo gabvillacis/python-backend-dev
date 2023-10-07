@@ -8,7 +8,7 @@ class Producto:
         return self.__nombre
     
     @nombre.setter
-    def nombre(self, nuevo_nombre) -> None:
+    def nombre(self, nuevo_nombre: str) -> None:
         self.__nombre = nuevo_nombre
         
     @property
@@ -16,7 +16,7 @@ class Producto:
         return self.__precio
     
     @precio.setter
-    def precio(self, nuevo_precio) -> None:
+    def precio(self, nuevo_precio: float) -> None:
         self.__precio = nuevo_precio
 
     def agregar_al_carrito(self) -> None:
@@ -40,7 +40,7 @@ class Mp3(Producto):
         return self.__artista
     
     @artista.setter
-    def artista(self, nuevo_artista) -> None:
+    def artista(self, nuevo_artista: str) -> None:
         self.__artista = nuevo_artista
         
     @property
@@ -48,7 +48,7 @@ class Mp3(Producto):
         return self.__duracion
     
     @duracion.setter
-    def duracion(self, nueva_duracion) -> None:
+    def duracion(self, nueva_duracion: int) -> None:
         self.__duracion = nueva_duracion
     
     def reproducir(self) -> None:
